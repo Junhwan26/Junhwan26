@@ -3,6 +3,4 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=junhwan26)](https://solved.ac/junwhan26)
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=junhwan26&theme=dark)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=junhwan26)](https://solved.ac/junwhan26) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junhwan26&theme=dark)
