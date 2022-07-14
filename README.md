@@ -6,3 +6,5 @@
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=junhwan26)](https://solved.ac/junwhan26) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=junhwan26&theme=dark)
 
 ![junhwan26's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhwan26&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= junhwan26)
